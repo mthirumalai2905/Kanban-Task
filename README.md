@@ -17,3 +17,6 @@ Production:
 1. `npm install`
 2. `npm run build`
 3. `npm run start`
+
+## Preview
+[screen-capture.webm](https://github.com/mthirumalai2905/Kanban-Task/assets/98790479/1bed942a-5e85-4a6c-887c-204a34879672)
