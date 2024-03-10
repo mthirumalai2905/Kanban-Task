@@ -1,9 +1,8 @@
-# DnD Kanban Board
-### A modern drag and droppable kanban board. <br>
-Build tutorial available on [Youtube](https://www.youtube.com/watch?v=9MKFnOKmihE)
+### Kanban Task Board <br>
 
 
-![preview](https://user-images.githubusercontent.com/16454253/187617291-a1ef81d1-9149-43bb-a6f4-5056cd602236.png)
+![Screenshot (212)](https://github.com/mthirumalai2905/Kanbash-Task/assets/98790479/a87bb9d5-d3ab-4568-9419-5777576d1397)
+
 
 
 
